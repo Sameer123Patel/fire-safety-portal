@@ -1,0 +1,1 @@
+/* Main App component will be placed here */
